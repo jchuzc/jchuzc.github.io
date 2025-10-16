@@ -1,10 +1,10 @@
-https://chuzcjoe.github.io/wealth/wealth-apy/
 https://chuzcjoe.github.io/tool/tool-useful-scripts/
+https://chuzcjoe.github.io/wealth/wealth-apy/
+https://chuzcjoe.github.io/wealth/wealth-maximize-roth-401k/
 https://chuzcjoe.github.io/wealth/wealth-medicaid-medicare-medicaid/
 https://chuzcjoe.github.io/wealth/wealth-trump-imposes-tariff/
-https://chuzcjoe.github.io/wealth/wealth-maximize-roth-401k/
-https://chuzcjoe.github.io/tool/tool-photo-editor/
 https://chuzcjoe.github.io/tool/tool-spanish-vocabulary-app/
 https://chuzcjoe.github.io/tool/tool-starbucks-under-5/
-https://chuzcjoe.github.io/resource/resource-karpathy-llm/
+https://chuzcjoe.github.io/tool/tool-photo-editor/
 https://chuzcjoe.github.io/resource/resource-hdr-to-sdr-tutorial/
+https://chuzcjoe.github.io/cpp/smartpointer/
