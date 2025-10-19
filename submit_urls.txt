@@ -1,3 +1,4 @@
+https://jchuzc.github.io/CGV/cgv-camera-intrinsic-extrinsic/
 https://jchuzc.github.io/wealth/wealth-apy/
 https://jchuzc.github.io/wealth/wealth-maximize-roth-401k/
 https://jchuzc.github.io/wealth/wealth-medicaid-medicare-medicaid/
@@ -7,4 +8,3 @@ https://jchuzc.github.io/tool/tool-photo-editor/
 https://jchuzc.github.io/tool/tool-starbucks-under-5/
 https://jchuzc.github.io/tool/tool-spanish-vocabulary-app/
 https://jchuzc.github.io/cpp/smartpointer/
-https://jchuzc.github.io/resource/resource-hdr-to-sdr-tutorial/
